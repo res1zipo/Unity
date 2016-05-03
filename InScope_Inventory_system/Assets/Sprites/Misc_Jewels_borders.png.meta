@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 0543c3fc8b94e479ea9d6ac105137cb4
+timeCreated: 1457403129
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blue_gem
+    21300002: Red_gem
+    21300004: blue_gem_selected
+    21300006: Red_gem_selected
+    21300008: slot_selected
+    21300010: slot
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: blue_gem
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: Red_gem
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: blue_gem_selected
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23.5}
+        - {x: -24, y: -23.5}
+        - {x: 24, y: -23.5}
+        - {x: 24, y: 23.5}
+    - name: Red_gem_selected
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: slot_selected
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 23}
+        - {x: -23.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 23.5, y: 23}
+      - - {x: -17.5, y: 18}
+        - {x: 18.5, y: 18}
+        - {x: 18.5, y: -18}
+        - {x: -4.5, y: -17}
+    - name: slot
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 49
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 24}
+        - {x: -23.5, y: -24}
+        - {x: 23.5, y: -24}
+        - {x: 23.5, y: 24}
+      - - {x: -17.5, y: 18}
+        - {x: 18.5, y: 18}
+        - {x: 18.5, y: -16}
+        - {x: -17.5, y: -16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
